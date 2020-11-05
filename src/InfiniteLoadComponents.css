@@ -1,0 +1,43 @@
+.movie-wrap {
+    position: relative;
+    width: 205px;
+    height: 326px;
+    float: left;
+}
+
+.movie-wrap-hide {
+    display: none;
+}
+
+.text-loading {
+    width: 100%;
+    display: inline-block;
+}
+
+.infinite-scroll-component {
+    padding: 50px;
+}
+
+.page-loaded {
+    position: fixed;
+    right: 40px;
+    bottom: 60px;
+}
+
+.back-to-top {
+    width: 56px;
+    position: fixed;
+    right: 68px;
+    bottom: 86px;
+    cursor: pointer;
+}
+
+.back-to-top:hover {
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+.back-to-top:active {
+    -webkit-filter: drop-shadow(0px 0px 0px #222);
+    filter: drop-shadow(0px 0px 0px #222);
+}

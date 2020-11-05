@@ -1,0 +1,31 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    margin: 0 0 18px 0;
+}
+
+span {
+    margin-right: 10px;
+}
+
+.blackButton {
+    background-color: black;
+    color: white;
+}
+
+.whiteButton {
+    background-color: white;
+    color: black;
+}
+
+.poster_image {
+    width: 200px;
+    height: 251px;
+}
+
+.movies {
+    margin-bottom: 17px;
+}
