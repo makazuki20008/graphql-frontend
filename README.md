@@ -1,10 +1,10 @@
-JuniorFE
+# JuniorFE
 
 Department
 
 Property
 
-Code Challenge 2:
+## Code Challenge 2:
 
 Description:
 - Call [GraphQL API] (https://ion-movies.herokuapp.com) and show Now playing movies from the response
@@ -15,7 +15,7 @@ Bonus:
 - Tool bar can filter fields to show from movies
 - Replace pagination by infinite loading
 
-Getting Started
+## Getting Started
 
 First, run the development server:
 - npm run dev 
