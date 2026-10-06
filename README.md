@@ -8,7 +8,7 @@ Property
 
 Description:
 - Call [GraphQL API] (https://ion-movies.herokuapp.com) and show Now playing movies from the response
-- Make 2 pages: List and detail pages with attractive UI
+- Make 2 pages: List and detail pages with attractive UI [^1]
 - Make pagination
 
 Bonus:
@@ -22,3 +22,5 @@ First, run the development server:
 - yarn dev 
 
 Open http://localhost:3000 with your browser to see the result.
+
+[^1]: Get json and print it to textarea, attribute, variable JavaScript.
